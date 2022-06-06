@@ -30,11 +30,17 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/Topcode111/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Topcode111/Azure-django">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=Azure-django&theme=buefy" />
 </a>
 <a href="https://github.com/Topcode111/Django-ReactJS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=Django-ReactJS&theme=buefy" />
+</a>
+<a href="https://github.com/Topcode111/NLP-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=NLP-app&theme=buefy" />
+</a>
+<a href="https://github.com/Topcode111/NLP-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=Image-Opencv&theme=buefy" />
 </a>
 
 <br />
