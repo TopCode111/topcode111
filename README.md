@@ -4,8 +4,10 @@
 
 **About me**
 <p>AI(人工知能）、Python、データ分析、ロボティクス等の業務を得意するエンジニアです。
+<br />
 主にPython, PHPを用いたWebアプリケーション制作を行っております。</p>
 <br />
+
 - 💼 バックエンド: Django(DRF,Flask), Laravel(Blade)
 
 - 📈 フロントエンド: React.js(Redux, Next.js), Vue.js(Nuxt.js), TypeScript(Nest.js)
