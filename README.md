@@ -2,17 +2,17 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
 **About me**
+<p>AI(人工知能）、Python、データ分析、ロボティクス等の業務を得意するエンジニアです。
+主にPython, PHPを用いたWebアプリケーション制作を行っております。</p>
+<br />
+- 💼 バックエンド: Django(DRF,Flask), Laravel(Blade)
 
-- 💼 Backend Engineer
+- 📈 フロントエンド: React.js(Redux, Next.js), Vue.js(Nuxt.js), TypeScript(Nest.js)
 
-- 📈 Frontend Engineer
+- ❤️ 自然語処理、音声認識、データ処理、イメージ処理、機械学習などに能動的です。
 
-- ❤️ I love writing Deep learning, Machine Learning
-
-- 💬 Ask me about anything https://github.com/TopCode111
+- 💬 連絡体系： Chatwork ID: 正男2019
 - https://skyline.github.com/TopCode111/2021
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
