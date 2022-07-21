@@ -34,8 +34,8 @@ AI(人工知能）、Python、データ分析、ロボティクス等の業務�
 | <a href="https://github.com/Topcode111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Topcode111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Topcode111's github stats" /></a> | <a href="https://github.com/Topcode111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topcode111&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
+#### Top Repositories
 
 <a href="https://github.com/Topcode111/Django-WebRTC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=Django-WebRTC&theme=buefy" />
