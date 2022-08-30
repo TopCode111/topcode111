@@ -45,8 +45,8 @@ AI(人工知能）、Python、データ分析、ロボティクス等の業務�
 <a href="https://github.com/Topcode111/Django-WebRTC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=Django-WebRTC&theme=buefy" />
 </a>
-<a href="https://github.com/Topcode111/Typescript-Vuejs-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=Typescript-Vuejs-App&theme=buefy" />
+<a href="https://github.com/Topcode111/laravel7-Admin-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=laravel7-Admin-App&theme=buefy" />
 </a>
 <a href="https://github.com/Topcode111/Reactjs-Bubble-UI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=Reactjs-Bubble-UI&theme=buefy" />
