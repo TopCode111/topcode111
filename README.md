@@ -54,15 +54,16 @@ AI(人工知能）、Python、データ分析、ロボティクス等の業務�
 <a href="https://github.com/Topcode111/SaaSApp-By-Laravel-Vuejs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=SaaSApp-By-Laravel-Vuejs&theme=buefy" />
 </a>
+<a href="https://github.com/Topcode111/laravel9_EC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=laravel9_EC&theme=buefy" />
+</a>
 <a href="https://github.com/Topcode111/Image-Opencv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=Image-Opencv&theme=buefy" />
 </a>
 <a href="https://github.com/Topcode111/auto_bot_Instagram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=auto_bot_Instagram&theme=buefy" />
 </a>
-<a href="https://github.com/Topcode111/laravel9_EC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=laravel9_EC&theme=buefy" />
-</a>
+
 <br />
 <br />
 
