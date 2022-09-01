@@ -60,8 +60,8 @@ AI(人工知能）、Python、データ分析、ロボティクス等の業務�
 <a href="https://github.com/Topcode111/auto_bot_Instagram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=auto_bot_Instagram&theme=buefy" />
 </a>
-<a href="https://github.com/Topcode111/auto_comment_youtube">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=auto_comment_youtube&theme=buefy" />
+<a href="https://github.com/Topcode111/laravel9-EC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topcode111&repo=laravel9-EC&theme=buefy" />
 </a>
 <br />
 <br />
