@@ -16,7 +16,7 @@ AI(人工知能）、Python、データ分析、ロボティクス等の業務�
 
 - ❤️ 自然語処理、音声認識、データ処理、イメージ処理、機械学習などに能動的です。
 
-- 📈 自動ツールの制作: Youtube, Twitter, Instagram
+- 📈 自動ツールの制作: Youtube, Twitter, Instagram, Tiktok
 
 - 💬 連絡体系： Chatwork ID: 正男2019
 - https://skyline.github.com/TopCode111/2021
